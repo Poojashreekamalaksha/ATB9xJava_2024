@@ -5,9 +5,10 @@ public class Lab003_IncrementDecrement {
         int a = 20;
         System.out.println(--a + a++ + a--);//18
         System.out.println(a);//8
-        //a--=10   a=9
-        //--a=8   a=8
-
+        //--a=19    a=19
+        //a++=19  a=20
+        //a--=20   a=19
+        //58       //19
     }
 }
 

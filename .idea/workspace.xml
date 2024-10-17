@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d961e31-73ae-4e52-9eaa-2db794719698" name="Changes" comment="15/10/2024">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October/ex_15102024_IncrementDecrement/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October/ex_15102024_IncrementDecrement/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October/ex_15102024_IncrementDecrement/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October/ex_15102024_IncrementDecrement/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October/ex_15102024_Ternary/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/task_15102024/Lab001_Teranary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/task_15102024/Lab002_Increment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/task_15102024/Lab003_IncrementDecrement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/task_15102024/Lab002_Increment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/task_15102024/Lab002_Increment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/task_15102024/Lab003_IncrementDecrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/task_15102024/Lab003_IncrementDecrement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +76,7 @@
     "onboarding.tips.debug.path": "C:/Users/HP/The Testing Academy/Java Project/ATB9xJava_2024/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab004">
+  <component name="RunManager" selected="Application.Lab003_IncrementDecrement">
     <configuration name="Lab001_Teranary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task.task_15102024.Lab001_Teranary" />
       <module name="ATB9xJava_2024" />
@@ -151,10 +144,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab004" />
         <item itemvalue="Application.Lab003_IncrementDecrement" />
-        <item itemvalue="Application.Lab006" />
         <item itemvalue="Application.Lab002_IncrementDecrement" />
+        <item itemvalue="Application.Lab004" />
+        <item itemvalue="Application.Lab006" />
         <item itemvalue="Application.Lab001_Teranary" />
       </list>
     </recent_temporary>
@@ -224,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729149813550</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="15/10/2024">
+      <option name="closed" value="true" />
+      <created>1729157431409</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729157431409</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
