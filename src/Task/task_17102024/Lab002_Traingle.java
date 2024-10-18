@@ -15,11 +15,11 @@ public class Lab002_Traingle {
         double side1 = sc1.nextDouble();
 
         Scanner sc2 = new Scanner(System.in);
-        System.out.println("Enter the length of the side1");
+        System.out.println("Enter the length of the side2");
         double side2 = sc2.nextDouble();
 
         Scanner sc3 = new Scanner(System.in);
-        System.out.println("Enter the length of the side1");
+        System.out.println("Enter the length of the side3");
         double side3 = sc3.nextDouble();
 
         if (side1 == side2 && side2 == side3) {
