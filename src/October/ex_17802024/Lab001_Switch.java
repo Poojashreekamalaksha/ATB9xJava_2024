@@ -1,8 +1,8 @@
-package October;
+package October.ex_17802024;
 
 import java.util.Scanner;
 
-public class ex_18102024_Switch {
+public class Lab001_Switch {
     public static void main(String[] args) {
         //Days: 1-7
         //1: Monday
