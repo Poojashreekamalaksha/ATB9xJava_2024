@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d961e31-73ae-4e52-9eaa-2db794719698" name="Changes" comment="15/10/2024">
+    <list default="true" id="0d961e31-73ae-4e52-9eaa-2db794719698" name="Changes" comment="17/10/2024">
+      <change afterPath="$PROJECT_DIR$/src/October/ex_18102024_Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/task_18102024/Lab001_Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/task_18102024/Lab002_Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/task_18102024/Lab003_Convertor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task/task_15102024/Lab002_Increment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/task_15102024/Lab002_Increment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task/task_15102024/Lab003_IncrementDecrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/task_15102024/Lab003_IncrementDecrement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/task_17102024/Lab002_Traingle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/task_17102024/Lab002_Traingle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,15 +53,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Debug_Lab002_int1.executor": "Debug",
     "Application.Lab001.executor": "Run",
     "Application.Lab0012_constant.executor": "Run",
+    "Application.Lab001_Calculator.executor": "Run",
+    "Application.Lab001_ConditionOperator.executor": "Run",
+    "Application.Lab001_GradeCalculator.executor": "Run",
     "Application.Lab001_Teranary.executor": "Run",
     "Application.Lab002.executor": "Run",
     "Application.Lab002_IncrementDecrement.executor": "Run",
+    "Application.Lab002_Month.executor": "Run",
+    "Application.Lab002_Traingle.executor": "Run",
+    "Application.Lab002_int1.executor": "Debug",
     "Application.Lab003.executor": "Run",
+    "Application.Lab003_Convertor.executor": "Run",
     "Application.Lab003_IncrementDecrement.executor": "Run",
+    "Application.Lab003_int2.executor": "Debug",
     "Application.Lab004.executor": "Run",
+    "Application.Lab004_int3.executor": "Debug",
+    "Application.Lab005_int4.executor": "Debug",
+    "Application.Lab005_int5.executor": "Run",
     "Application.Lab006.executor": "Run",
+    "Application.Lab006_HackerRank.executor": "Run",
     "Application.October.ex_09102024.Lab001.executor": "Run",
     "Application.October.ex_15102024_IncrementDecrement.Lab001.executor": "Run",
     "Application.October.ex_15102024_IncrementDecrement.Lab002.executor": "Run",
@@ -68,21 +84,37 @@
     "Application.TypeCasting_Lab004.executor": "Run",
     "Application.TypeCasting_Lab005.executor": "Run",
     "Application.TypeCasting_Lab006.executor": "Run",
+    "Application.ex_18102024_Switch.executor": "Run",
     "Application.task_15102024.executor": "Run",
+    "Application.task_18102024.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Merging master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/HP/The Testing Academy/Java Project/ATB9xJava_2024/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/HP/The Testing Academy/Java Project/ATB9xJava_2024/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab003_IncrementDecrement">
-    <configuration name="Lab001_Teranary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.task_15102024.Lab001_Teranary" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Task.task_18102024" />
+      <recent name="Task.task_17102024" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Lab003_Convertor">
+    <configuration name="Debug_Lab002_int1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="October.ex_17102024.Lab002_int1" />
+      <module name="ATB9xJava_2024" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab001_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.task_18102024.Lab001_Calculator" />
       <module name="ATB9xJava_2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.task_15102024.*" />
+          <option name="PATTERN" value="Task.task_18102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab002_Increment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.task_15102024.Lab002_Increment" />
+    <configuration name="Lab002_Month" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.task_18102024.Lab002_Month" />
       <module name="ATB9xJava_2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.task_15102024.*" />
+          <option name="PATTERN" value="Task.task_18102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab003_IncrementDecrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.task_15102024.Lab003_IncrementDecrement" />
+    <configuration name="Lab003_Convertor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.task_18102024.Lab003_Convertor" />
       <module name="ATB9xJava_2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.task_15102024.*" />
+          <option name="PATTERN" value="Task.task_18102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="October.ex_15102024_IncrementDecrement.Lab004" />
+    <configuration name="ex_18102024_Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="October.ex_18102024_Switch" />
       <module name="ATB9xJava_2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="October.ex_15102024_IncrementDecrement.*" />
+          <option name="PATTERN" value="October.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="October.ex_15102024_Ternary.Lab006" />
+    <configuration name="task_18102024" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.task_18102024" />
       <module name="ATB9xJava_2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="October.ex_15102024_Ternary.*" />
+          <option name="PATTERN" value="Task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,13 +174,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Debug_Lab002_int1" />
+      <item itemvalue="Application.Lab001_Calculator" />
+      <item itemvalue="Application.Lab002_Month" />
+      <item itemvalue="Application.Lab003_Convertor" />
+      <item itemvalue="Application.ex_18102024_Switch" />
+      <item itemvalue="Application.task_18102024" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab003_IncrementDecrement" />
-        <item itemvalue="Application.Lab002_IncrementDecrement" />
-        <item itemvalue="Application.Lab004" />
-        <item itemvalue="Application.Lab006" />
-        <item itemvalue="Application.Lab001_Teranary" />
+        <item itemvalue="Application.Lab003_Convertor" />
+        <item itemvalue="Application.Lab002_Month" />
+        <item itemvalue="Application.Lab001_Calculator" />
+        <item itemvalue="Application.task_18102024" />
+        <item itemvalue="Application.ex_18102024_Switch" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +265,87 @@
       <option name="project" value="LOCAL" />
       <updated>1729157431409</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="15/10/2024">
+      <option name="closed" value="true" />
+      <created>1729157886677</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729157886677</updated>
+    </task>
+    <task id="LOCAL-00010" summary="15/10/2024">
+      <option name="closed" value="true" />
+      <created>1729157927831</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729157927831</updated>
+    </task>
+    <task id="LOCAL-00011" summary="15/10/2024">
+      <option name="closed" value="true" />
+      <created>1729158003802</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1729158003802</updated>
+    </task>
+    <task id="LOCAL-00012" summary="15/10/2024">
+      <option name="closed" value="true" />
+      <created>1729158210104</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729158210104</updated>
+    </task>
+    <task id="LOCAL-00013" summary="15/10/2024">
+      <option name="closed" value="true" />
+      <created>1729158315402</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729158315402</updated>
+    </task>
+    <task id="LOCAL-00014" summary="17/10/2024">
+      <option name="closed" value="true" />
+      <created>1729252772437</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1729252772437</updated>
+    </task>
+    <task id="LOCAL-00015" summary="17/10/2024">
+      <option name="closed" value="true" />
+      <created>1729252972450</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1729252972450</updated>
+    </task>
+    <task id="LOCAL-00016" summary="17/10/2024">
+      <option name="closed" value="true" />
+      <created>1729252981993</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1729252981993</updated>
+    </task>
+    <task id="LOCAL-00017" summary="17/10/2024">
+      <option name="closed" value="true" />
+      <created>1729253107531</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1729253107531</updated>
+    </task>
+    <task id="LOCAL-00018" summary="17/10/2024">
+      <option name="closed" value="true" />
+      <created>1729253172853</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1729253172853</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -234,7 +354,8 @@
     <MESSAGE value="09/10/2024_Constant" />
     <MESSAGE value="14/10/2024_TypeCasting" />
     <MESSAGE value="15/10/2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="15/10/2024" />
+    <MESSAGE value="17/10/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="17/10/2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -248,6 +369,46 @@
           <url>file://$PROJECT_DIR$/src/October/ex_14102024/TypeCasting_Lab005.java</url>
           <line>2</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/October/ex_17102024/Lab002_int1.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/October/ex_17102024/Lab002_int1.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/October/ex_17102024/Lab002_int1.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/October/ex_17102024/Lab003_int2.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/October/ex_17102024/Lab004_int3.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/October/ex_17102024/Lab004_int3.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/October/ex_17102024/Lab005_int4.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Task/task_18102024/Lab003_Convertor.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/October/ex_09102024/Lab001.java</url>
@@ -302,6 +463,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/October/ex_17102024/Lab006_HackerRank.java</url>
+          <line>5</line>
+          <properties class="October.ex_17102024.Lab006_HackerRank" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Task/task_17102024/Lab002_Traingle.java</url>
+          <line>5</line>
+          <properties class="Task.task_17102024.Lab002_Traingle" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
