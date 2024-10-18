@@ -1,4 +1,4 @@
-package October.ex_17802024;
+package October.ex_18102024;
 
 import java.util.Scanner;
 
